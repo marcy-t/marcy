@@ -1,15 +1,31 @@
 # Introduction
 
-I'm Marcy.
+<p>I'm Marcy.</p>
 
-# Tech Stack
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=marcy-t&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcy-t&show_icons=true&locale=en&layout=compact" />
+</a>
 
-![](https://skillicons.dev/icons?i=go,python,docker,k8s,aws,googlecloud,github,vscode,mysql,postgres,redis,elasticsearch,html,css,js)
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-# About me
+# Programming Languages
+<img align="left" src="https://skillicons.dev/icons?i=c,go,python,php,html,css" /> <br /><br />  
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=marcy-t&show_icons=true&locale=en&layout=compact)
+# DB and Dev Tools etc
 
-# Social Media
+<img align="left" src="https://skillicons.dev/icons?i=mysql,postgresql,redis,elasticsearch,docker,k8s,git,github,vscode,linux,aws,gcp," /> <br /><br />
+
+
+
 
 
